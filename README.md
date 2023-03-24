@@ -24,6 +24,11 @@ Finally, the function returns the generated password.
 ## Conclusion
 This password generator is a simple but effective way to generate secure passwords that meet specific criteria. Its code is easy to understand and can be modified to meet different requirements or integrated into other web applications.
 
+https://bantonneau.github.io/passwordGenerator/
+
+<img width="873" alt="image" src="https://user-images.githubusercontent.com/109747300/227392737-076a0d50-d26d-4f49-847b-de690faae727.png">
+
+
 
 
 
